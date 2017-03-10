@@ -1,0 +1,1 @@
+The things that dont work are the cycles count, CPI, bubbles, flushes, and % taken outputs. 
